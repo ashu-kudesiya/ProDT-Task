@@ -1,0 +1,4 @@
+temporalio
+protobuf
+sendgrid
+requests
