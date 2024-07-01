@@ -8,7 +8,6 @@ This project demonstrates a simple Temporal workflow that fetches weather data u
 
 ## Prerequisites
 
-- [Docker](https://www.docker.com/get-started)
 - [Python 3.11](https://www.python.org/downloads/)
 - [Temporal Server](https://docs.temporal.io/docs/server/quick-install)
 
